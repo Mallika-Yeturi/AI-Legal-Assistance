@@ -1,0 +1,36 @@
+Employment Contract
+
+This Employment Contract ("Contract") is entered into on this 1st day of January, 2023, by and between kfin tech, located at 123 Main Street, New York, NY, and Suma, located at 456 Elm Street, New York, NY.
+
+1. Position
+kfin tech hereby employs Suma as the Vice President (VP) of the company. Suma agrees to perform all duties and responsibilities associated with this position.
+
+2. Salary
+Suma's salary for this position shall be $50,000,000 per year. Salary payments shall be made on a monthly basis.
+
+3. Duration
+This Contract shall have a duration of 1 year, commencing on April 30, 2025, and ending on April 29, 2026.
+
+4. Probation Period
+Suma shall undergo a probation period of 15 days from the start date of this Contract. During this period, either party may terminate the Contract with 3 days' notice.
+
+5. Additional Clauses
+The parties agree that the severability clause shall apply to this Contract. In the event that any provision of this Contract is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+6. Jurisdiction
+This Contract shall be governed by and construed in accordance with the laws of the State of New York.
+
+7. Entire Agreement
+This Contract constitutes the entire agreement between the parties and supersedes any prior agreements or understandings, whether written or oral.
+
+IN WITNESS WHEREOF, the parties have executed this Contract as of the date first written above.
+
+kfin tech
+
+__________________________
+[Signature]
+
+Suma
+
+__________________________
+[Signature]

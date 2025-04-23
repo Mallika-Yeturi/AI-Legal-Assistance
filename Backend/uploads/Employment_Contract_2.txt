@@ -1,0 +1,33 @@
+Employment Contract
+
+This Employment Contract ("Contract") is entered into on this day, ____________________, between Tern, hereinafter referred to as "Employer," and Goutham, hereinafter referred to as "Employee."
+
+1. Position:
+Employee shall be employed in the position of testing.
+
+2. Salary:
+Employee shall receive a salary of $30,000 per year, payable in regular installments on a bi-weekly basis.
+
+3. Duration:
+This Contract shall be effective for a period of 1 year, commencing on June 23, 2025, and ending on June 22, 2026.
+
+4. Probation Period:
+Employee shall be subject to a probationary period of 20 days, during which time either party may terminate this Contract with or without cause.
+
+5. Duties and Responsibilities:
+Employee shall perform all duties and responsibilities associated with the position of testing, as assigned by Employer.
+
+6. Confidentiality:
+Employee agrees to maintain the confidentiality of all proprietary information and trade secrets of Employer, both during and after the term of this Contract.
+
+7. Non-Compete:
+Employee agrees not to engage in any competitive activities that may harm the business interests of Employer during the term of this Contract and for a period of 1 year after its termination.
+
+8. Governing Law:
+This Contract shall be governed by the laws of the State of New York.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Contract as of the date first above written.
+
+Employer: ________________________________ (Signature)
+
+Employee: ________________________________ (Signature)
